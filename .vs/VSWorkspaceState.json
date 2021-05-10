@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\global-styles",
+    "\\src\\app\\home"
+  ],
+  "SelectedNode": "\\src\\app\\home\\home-routing.module.ts",
+  "PreviewInSolutionExplorer": false
+}
